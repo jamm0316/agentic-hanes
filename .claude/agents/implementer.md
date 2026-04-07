@@ -1,6 +1,7 @@
 ---
 name: implementer
 description: 상세 계획을 받아 코드로 변환하는 구현 전문 에이전트. 설계 판단 없이 계획을 그대로 코드로 옮긴다. plan-writer가 작성한 Task 계획이 전달될 때 사용한다.
+model: haiku
 tools: Read, Write, Edit, Bash, Grep, Glob
 permissionMode: acceptEdits
 maxTurns: 30
