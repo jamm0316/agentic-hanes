@@ -163,7 +163,7 @@ git log <spec_last_commit>..HEAD --name-only -- src/main/java/.../<도메인>/
 
 ```
 /lets-get-to-work              # 슬러그 자동 생성
-/lets-get-to-work RGD-1234     # 티켓 번호 명시
+/lets-get-to-work XXX-1234     # 티켓 번호 명시
 ```
 
 ### 워크플로우가 사용자에게 묻는 시점 (4개로 한정)
