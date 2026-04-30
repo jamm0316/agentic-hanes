@@ -211,7 +211,7 @@ git log <spec_last_commit>..HEAD --name-only -- src/main/java/.../<도메인>/
 ## 관련 문서
 
 - [`.claude/agents/`](./.claude/agents/) — 4개 에이전트 정의
-- [`.claude/skills/lets-get-to-work/SKILL.md`](./.claude/skills/lets-get-to-work/SKILL.md) — 슬래시 커맨드 정의
+- [`.claude/skills/lets-get-to-work/SKILL.md`](.claude/skills/SKILL.md) — 슬래시 커맨드 정의
 - `~/.claude/agents/workflow.md` — 멀티에이전트 워크플로우 상세 (Phase별 정의, 핸드오프 컨트랙트, 재시도 정책)
 - `.claude/docs/domains/_TEMPLATE.md` — 도메인 spec 표준 템플릿
 
