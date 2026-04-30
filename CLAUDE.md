@@ -36,7 +36,7 @@
 
 1. **코드 수정 전**: 같은 도메인의 기존 패턴 먼저 확인
 2. **신규 기능**: 구현 → 테스트 작성 → 검증 순서 (test-after / DDD 흐름 — 상세는 `.claude/workflow.md` Phase 2~4 참조)
-3. **커밋 메시지**: `[RGD-XXXX] 작업 내용 요약` 형식 (Jira 티켓 링크: `https://xxx.atlassian.net/browse/XXX-XXXX`).
+3. **커밋 메시지**: `[XXX-XXXX] 작업 내용 요약` 형식 (Jira 티켓 링크: `https://xxx.atlassian.net/browse/XXX-XXXX`).
 4. **단계별 진행**: 다단계 작업 시 각 단계 완료 후 확인하고 다음 단계로 진행. 모든 단계를 한번에 수행하지 않음
 
 ---
