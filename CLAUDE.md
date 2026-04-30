@@ -5,6 +5,7 @@
 **기술 스택:** ex) Spring Boot 3.3 / Java 21 / MongoDB (primary) / Redis / ElasticSearch
 
 > 아키텍처·코드 스타일·레이어 책임·주의사항 상세 규칙은 `.claude/docs/` 참조 (`architecture.md`, `code-style.md`)
+> 해당 파일이 없을 시 기존 코드를 분석하여 새로 생성한다.
 
 ---
 
