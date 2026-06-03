@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-{제품에 대한 설명}
+개요: {제품에 대한 설명}
 
 **기술 스택:** ex) Spring Boot 3.3 / Java 21 / MongoDB (primary) / Redis / ElasticSearch
 
